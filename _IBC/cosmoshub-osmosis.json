@@ -45,6 +45,19 @@
       "telegram": {
         "handle": "clemensg"
       }
+    },
+    {
+      "chain_1": {
+        "address": "cosmos19l3pq6kg07fa4x7t88urx45t6gk2hl83gppe02"
+      },
+      "memo": "",
+      "name": "",
+      "discord": {
+        "handle": "ccclaimens"
+      },
+      "telegram": {
+        "handle": "clemensg"
+      }
     }
   ]
 }
